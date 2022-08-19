@@ -2,29 +2,46 @@
 *{
   margin: 0;
   padding:0;
+  
 }
 .conteudo{
   text-align: center;
-  background-color: purple;
+  background-color: #be4d4d;
   color: white;
-  height: 50%;
+  
 }
 .infpessoais{
- padding-bottom: 20px;
+ padding-bottom: 1.6%;
  font-family: 'Silkscreen', cursive;
+ text-align:center;
  text-shadow:
 
-               -1px -1px 0px rgb(87, 87, 87),
-               -1px 1px 0px rgb(87, 87, 87),
-                1px -1px 0px rgb(87, 87, 87),
-                1px 0px 0px rgb(87, 87, 87);
+               -1px -1px 0px black,
+               -1px 1px 0px black,
+                1px -1px 0px black,
+                1px 0px 0px black;                              
 }
 #github{
   color: white;
   text-decoration: none;
 }
 .img{
-  height:200px;
-  width:200px;
+  height:12%;
+  width:6%;
+  position:absolute;
+  top:26%;
+  right:33%;
 
+}
+#mario{
+  height: 10%;
+  width: 10%;
+}
+#githublogo{
+  position:absolute;
+  top: 48.2%;
+  right: 41%;
+  height: 4.2%;
+  width: 2%;
+  
 }
