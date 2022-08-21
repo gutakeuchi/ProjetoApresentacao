@@ -1,0 +1,93 @@
+/* ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+/* /////////////////////////////////////////////// copia e cola //////////////////////////////////////////////////////////// */
+/* ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+
+body{   /* /////////////////// o BODY no angular é só * , troca o nome body por * ////////////////////////////////////////// */
+    margin: 0px;
+    padding: 0px;
+    background-color: rgb(87, 188, 255);
+}
+#conteudo{
+    font-size: 20px;
+}
+#cabecalho{
+    margin: 50px;
+    width: 1800px;
+    height: 50px;
+    text-align: center;
+    padding-top: 30px;
+    background-color: rgb(255, 194, 28);
+    border-color: black;
+    border-style:solid;
+    position: fixed;
+}
+#logo{
+    width: 100px;
+    height: 40px;
+    margin-top: -40px;
+    margin-left: 20px;
+    padding-top: 10px;
+    background-color: rgb(255, 137, 156);
+    border-style:solid ;
+    border-color: aqua;
+    position: fixed;
+}
+#dados{
+    width: 100px;
+    height: 40px;
+    background-color: yellow;
+    position: fixed;
+    margin-top: -40px;
+    border-style: solid;
+    margin-left: 1660px;
+    padding-top: 10px;
+}
+#verde{
+    width: 1800px;
+    height: 600px;
+    margin: 200px 50px;
+    position: fixed;
+    background-color: green;
+    border-style: solid;
+}
+#menuVertical{
+    width: 100px;
+    height: 400px;
+    padding-top: 100px;
+    margin: 30px 0px 0px 20px;
+    text-align: center;
+    background-color: rgb(0, 180, 0);
+    border-style: solid;
+    position: fixed
+}
+#menuHorizontal{
+    width: 1200px;
+    height: 50px;
+    text-align: center;
+    margin: 30px 0px 0px 500px;
+    padding-top: 10px;
+    background-color: rgb(0, 180, 0);
+    border-style: solid;
+    position: fixed;
+}
+#rodape{
+    width: 1800px;
+    height: 80px;
+    margin: 840px 0px 0px 50px;
+    text-align: center;
+    padding-top: 20px;
+    background-color: red;
+    border-style: solid;
+    position: fixed;
+}
+#sla{
+    width: 200px;
+    height: 60px;
+    position: fixed;
+    margin: -30px 0px 0px 1560px;
+    background-color: rgb(185, 0, 0);
+    border-style: solid;
+}
+/* ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
+/* /////////////////////////////////////////////// copia e cola //////////////////////////////////////////////////////////// */
+/* ///////////////////////////////////////////////////////////////////////////////////////////////////////////////////////// */
